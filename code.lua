@@ -1096,7 +1096,7 @@ local Window = Rayfield:CreateWindow({
     Name = "chillisaken",
     Icon = 0,
     LoadingTitle = "chillisaken",
-    LoadingSubtitle = "Feature Suite",
+    LoadingSubtitle = "by chill",
     Theme = "Default",
     DisableRayfieldPrompts = false,
     DisableBuildWarnings = false,
@@ -1110,7 +1110,7 @@ local Window = Rayfield:CreateWindow({
 
 local CombatTab = Window:CreateTab("Combat", "swords")
 local AutoTab = Window:CreateTab("Automation", "bot")
-local MovementTab = Window:CreateTab("Movement & Map", "zap")
+local MovementTab = Window:CreateTab("Misc", "zap")
 local VisualsTab = Window:CreateTab("Visuals & ESP", "eye")
 
 -- Combat Tab
