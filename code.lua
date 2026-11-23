@@ -15,7 +15,7 @@ local Camera = Workspace.CurrentCamera
 
 local chillisaken = {
 	name = "chillisaken",
-	Credits = "chill",
+	subtitle = "chill",
 	Config = {
 		AutoBlock = false,
 		BlockDelay = 0,
