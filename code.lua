@@ -2308,9 +2308,8 @@ FunTab:CreateButton({
 })
 
 -- Credits Tab
-CreditsTab:CreateLabel("hiiamcool0066_17937: a special guy(helped through alot)", 81011198561140, Color3.fromRGB(90, 90, 90), false)
-CreditsTab:CreateLabel("Creator: Bob.47", 70727208556993, Color3.fromRGB(90, 90, 90), false)
-CreditsTab:CreateLabel("doitenroi_9941: helped me through setting up the discord server", 111385007873003, Color3.fromRGB(90, 90, 90), false)
+CreditsTab:CreateLabel("chill: owner", 81011198561140, Color3.fromRGB(90, 90, 90), false)
+CreditsTab:CreateLabel("zx_zf: idk hes cool", 70727208556993, Color3.fromRGB(90, 90, 90), 
 
 -- Settings Tab
 SettingsTab:CreateButton({
