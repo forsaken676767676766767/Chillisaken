@@ -14,8 +14,8 @@ local LocalPlayer = Players.LocalPlayer
 local Camera = Workspace.CurrentCamera
 
 local chillisaken = {
-	Brand = "chillisaken",
-	Credits = "chillisaken",
+	name = "chillisaken",
+	Credits = "chill",
 	Config = {
 		AutoBlock = false,
 		BlockDelay = 0,
